@@ -1,4 +1,4 @@
-package swarmdrone.decentralizedswarmcoverage;
+package swarmdrone.decentralizedswarmcoverage_ijrcs;
 
 public class Point {
     private int row, col;

@@ -1,4 +1,4 @@
-package swarmdrone.decentralizedswarmcoverage;
+package swarmdrone.decentralizedswarmcoverage_ijrcs;
 
 import javafx.animation.AnimationTimer;
 import javafx.application.Application;

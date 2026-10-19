@@ -1,4 +1,4 @@
-package swarmdrone.decentralizedswarmcoverage;
+package swarmdrone.decentralizedswarmcoverage_ijrcs;
 
 import javafx.scene.canvas.GraphicsContext;
 import javafx.scene.paint.Color;

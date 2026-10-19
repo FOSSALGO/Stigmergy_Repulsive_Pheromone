@@ -1,4 +1,4 @@
-package swarmdrone.decentralizedswarmcoverage;
+package swarmdrone.decentralizedswarmcoverage_ijrcs;
 
 public class CSS {
     public static final String style = "data:text/css," +
